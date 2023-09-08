@@ -1,0 +1,13 @@
+.col2{
+    position:absolute;
+    top :25%;
+    left:20%;
+    overflow:scroll;
+}
+th,td{
+    width:25%;
+   height: fit-content;
+    text-align: center;
+    border-right:1px dashed black;
+    border-style: outset;
+}

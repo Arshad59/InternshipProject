@@ -1,0 +1,52 @@
+.col2 {
+    width: 82%;
+    display: flex;
+    position: absolute;
+    top: 15%;
+    left: 17.9%;
+    height: 700px;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+.conainer {
+    overflow-y: scroll;
+}
+
+.title1 {
+    padding: 2%;
+}
+
+.addform,
+.addform1,
+.input,
+.text {
+    display: block;
+}
+
+.input {
+    width: 100%;
+}
+
+.input textarea {
+    width: 100%;
+}
+
+label {
+    display: block;
+}
+
+.text {
+    width: 100%;
+    display: block;
+}
+
+.addform1,
+.addform {
+    width: 100%;
+}
+
+.form1 {
+    width: 50%;
+}
